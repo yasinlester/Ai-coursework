@@ -1,4 +1,4 @@
-Handwritten Digit Classification using KNN and MLP
+ Digit Classification using KNN and MLP
 
 Overview
 
